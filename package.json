@@ -27,7 +27,7 @@
   "dependencies": {
     "clone": "^2.1.2",
     "ethereumjs-util": "^6.1.0",
-    "fast-json-patch": "^2.1.0",
+    "fast-json-patch": "^3.1.1",
     "loglevel": "^1.6.1",
     "obs-store": "^4.0.2",
     "safe-event-emitter": "^1.0.1",
